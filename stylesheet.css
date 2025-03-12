@@ -3,13 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 
 /* Style the header section */
 .header {
     background-color: #333;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
@@ -40,19 +40,19 @@ body {
 /* Style the about text */
 .about-text {
     font-size: 1.1em;
-    color: #555;
+    color: #000000;
 }
 
 /* Style the profile image */
 .profile-image {
-    border-radius: 50%;
+    border-radius: 100%;
     margin-top: 20px;
 }
 
 /* Style the footer */
 .footer {
     background-color: #333;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
     position: fixed;
@@ -68,7 +68,7 @@ body {
 
 /* Change the color of the GitHub link on hover */
 .github-link:hover {
-    color: #ff4500;
+    color: #964a2e;
 }
 
 /* Change box model properties for the header */
