@@ -29,6 +29,11 @@ body {
 .content {
     padding: 20px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh; /* Adjust this value to control the vertical centering */
 }
 
 /* Style the section title */
@@ -43,10 +48,19 @@ body {
     color: #000000;
 }
 
+/* Style the image container */
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
 /* Style the profile image */
 .profile-image {
     border-radius: 100%;
-    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
 }
 
 /* Style the footer */
@@ -55,7 +69,7 @@ body {
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
