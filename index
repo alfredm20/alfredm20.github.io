@@ -10,17 +10,17 @@
 <body>
     <div class="header">
         <h1 id="main-title">Welcome to My Personal Website</h1>
-        <p class="intro-text">Hi, I'm [Your Name], and this is my personal website where I share my hobbies and professional experience.</p>
+        <p class="intro-text">Hi, I'm Alfred Morales Jr, and this is my personal website where I share my hobbies and professional experience.</p>
     </div>
 
     <div class="content">
         <h2 class="section-title">About Me</h2>
-        <p class="about-text">I am a student at [Your University] studying [Your Major]. I enjoy [Your Hobbies], and I have experience in [Your Professional Experience].</p>
-        <img src="https://via.placeholder.com/150" alt="Placeholder Image" class="profile-image">
+        <p class="about-text">I am a student at The University of Texas studying Electrical and Computer Engineering. I enjoy reading books and watching sports.</p>
+        <img src= "https://i0.wp.com/texapedia.info/wp-content/uploads/2022/11/UT-photo-from-about-page.jpg?fit=1740%2C940&ssl=1" alt="Picture of UT campus" class="profile-image">
     </div>
 
     <div class="footer">
-        <p>Check out my <a href="https://github.com/yourgithubusername" class="github-link">GitHub</a> for more projects!</p>
+        <p>Check out my <a href="https://github.com/alfredm20" class="github-link">GitHub</a> for more projects!</p>
     </div>
 </body>
 </html>
